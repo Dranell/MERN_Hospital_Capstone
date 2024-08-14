@@ -1,4 +1,4 @@
-const PatienSchema = require("./Model/patientInformation")
+const PatienSchema = require("../model/patientInformation")
 
 //utilize function expression to get all patients from Database
 
