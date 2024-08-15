@@ -38,10 +38,15 @@ screenshot of connected to the database
 ![Screenshot (22)](https://github.com/user-attachments/assets/f07cf7fd-65ba-48dc-8536-f81cef2d4569)
 
 
-screenshot of CRUD operation on Thunder client
+Screenshots of CRUD operation on Thunder client:
+
+POST Request
 ![Screenshot (17)](https://github.com/user-attachments/assets/6e453cad-e6d3-4b6e-9ded-08871a193375)
+GET Request
 ![Screenshot (18)](https://github.com/user-attachments/assets/278ed869-3b8b-43db-83bd-90a45094bde4)
+PUT Request
 ![Screenshot (19)](https://github.com/user-attachments/assets/f9d557af-8fa8-435e-98bd-5cf1f35f0a5d)
+DELETE Request
 ![Screenshot (20)](https://github.com/user-attachments/assets/f47a80dc-408b-4175-a9e9-cdd78c556a6a)
 ![Screenshot (21)](https://github.com/user-attachments/assets/3c4136d2-2245-430f-b7fa-d8ef7861fcc0)
 
