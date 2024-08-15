@@ -93,10 +93,7 @@ screenshot of the home page
 
 
 screenshot of creating a patient
-
-![Screenshot (12)](https://github.com/user-attachments/assets/fd6bd4b2-8ec9-43eb-8180-0c17c2165c9e)
-
-
+![Screenshot (24)](https://github.com/user-attachments/assets/5595260b-d8ec-4a33-8c48-91324484860c)
 
 screenshot of reading card component for patient
 
@@ -104,8 +101,8 @@ screenshot of reading card component for patient
 
 
 screenshot of updating patient information
-![Screenshot (14)](https://github.com/user-attachments/assets/99bcb837-7661-42b4-ac2a-2cc8d99e9ab3)
 
+![Screenshot (26)](https://github.com/user-attachments/assets/1ec4bb65-64c3-4bb6-bf8b-480d333d0b81)
 
 screenshot of updated information
 ![Screenshot (15)](https://github.com/user-attachments/assets/2591674e-b3c5-4242-a80a-165b083047c2)
