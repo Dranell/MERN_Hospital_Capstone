@@ -3,18 +3,18 @@ This application is designed to manage patient information within a hospital set
 
 Technologies Used
 Node.js: A runtime environment that allows for the execution of JavaScript server-side. It powers the backend of the application, handling server requests and responses.
-Next.js: A React framework that enables server-side rendering and static site generation. It is used for building the frontend of the application with optimal performance and SEO.
+Next.js: A React framework that enables server-side rendering and static site generation. It is used to build the application's front end with optimal performance and SEO.
 React: A JavaScript library for building user interfaces. It helps in creating interactive and dynamic frontend components.
 Application Overview
 The application is structured into a backend and a frontend, each serving distinct purposes:
 
-Neccessary Dependecies: Backend  
+Necessary Dependencies: Backend  
 Mongoose
 Cors
 Express
 Nodemon
 
-Neccessary Dependecies: Front-End
+Necessary Dependencies: Front-End
 React
 Axios
 Material UI
@@ -23,30 +23,27 @@ Backend (Node.js and Mongoose)
 Server Setup: The backend server is built using Node.js, providing the API endpoints for CRUD operations.
 Database Connection: Mongoose is used to connect to a MongoDB database, where patient information is stored. It defines schemas for patient data and manages interactions with the database.
 API Endpoints: The backend exposes several API endpoints to perform CRUD operations:
-Create: Adds new patient records to the database.
+Create: Add new patient records to the database.
 Read: Retrieves patient records from the database.
 Update: Modifies existing patient records.
 Delete: Removes patient records from the database.
 
 
-screenshot of database and cluster in cloud
-![alt text](<Screenshot (9).png>)
+screenshot of the database and cluster in the cloud
+![Screenshot (9)](https://github.com/user-attachments/assets/fc8d6c78-bbd1-49ad-9ddf-1a1656611c1d)
+![Screenshot (10)](https://github.com/user-attachments/assets/a9585ef9-4861-4b26-a0a2-db4f57092f78)
 
-![alt text](<Screenshot (10).png>)
-screenshot of stating conneted to the database
+screenshot of connected to the database
 
-![alt text](<Screenshot (22).png>)
+![Screenshot (22)](https://github.com/user-attachments/assets/f07cf7fd-65ba-48dc-8536-f81cef2d4569)
 
-screenshot of CRUD operation on thunder client
-![alt text](<Screenshot (17).png>)
 
-![alt text](<Screenshot (18).png>)
-
-![alt text](<Screenshot (19).png>)
-
-![alt text](<Screenshot (20).png>)
-
-![alt text](<Screenshot (21).png>)
+screenshot of CRUD operation on Thunder client
+![Screenshot (17)](https://github.com/user-attachments/assets/6e453cad-e6d3-4b6e-9ded-08871a193375)
+![Screenshot (18)](https://github.com/user-attachments/assets/278ed869-3b8b-43db-83bd-90a45094bde4)
+![Screenshot (19)](https://github.com/user-attachments/assets/f9d557af-8fa8-435e-98bd-5cf1f35f0a5d)
+![Screenshot (20)](https://github.com/user-attachments/assets/f47a80dc-408b-4175-a9e9-cdd78c556a6a)
+![Screenshot (21)](https://github.com/user-attachments/assets/3c4136d2-2245-430f-b7fa-d8ef7861fcc0)
 
 
 
@@ -68,45 +65,53 @@ Client-Side Interaction: React components manage the user interface and handle i
 Server-Side Rendering: Next.js ensures efficient rendering of pages, which improves performance and enhances the user experience.
 Key Features
 Add Patient Information: Users can input new patient details through a form, which is then sent to the backend and stored in the database.
-View Patient Information: Patient records are displayed on the frontend, allowing users to browse through the list of patients.
+View Patient Information: Patient records are displayed on the front end, allowing users to browse through the list of patients.
 Update Patient Information: Users can edit existing patient records, and the updated information is sent to the backend for modification in the database.
 Delete Patient Information: Users have the option to remove patient records, with the deletion request processed by the backend and reflected in the database.
 Conclusion
-This application provides a comprehensive solution for managing patient information in a hospital environment. By leveraging Node.js, Mongoose, Next.js, and React, it ensures a seamless and efficient user experience for handling patient records through intuitive CRUD operations.
+This application provides a comprehensive solution for managing patient information in a hospital environment. Leveraging Node.js, Mongoose, Next.js, and React ensures a seamless and efficient user experience for handling patient records through intuitive CRUD operations.
 
 
 
 
 
 screenshot of removing default react
-![alt text](<Screenshot (23).png>)
+![Screenshot (23)](https://github.com/user-attachments/assets/af56bf2b-7072-4d0f-b39f-d3ca21e1cf7a)
 
 
 
-screenshot of nav toolbar
-![alt text](<Screenshot (11).png>)
+
+screenshot of the nav toolbar
+
+![Screenshot (11)](https://github.com/user-attachments/assets/7f1699dd-78d4-402a-b129-3ed35e346db0)
 
 
 
-screenshot of home page 
-![alt text](<Home screen page screenshot.png>)
+screenshot of the home page 
+
+![Home screen page screenshot](https://github.com/user-attachments/assets/93fda754-6a05-4a6f-b686-03460d6fec84)
 
 
-screenshot of creating patient
-![alt text](<Screenshot (12).png>)
+screenshot of creating a patient
+
+![Screenshot (12)](https://github.com/user-attachments/assets/fd6bd4b2-8ec9-43eb-8180-0c17c2165c9e)
 
 
 
 screenshot of reading card component for patient
-![alt text](<Screenshot (13).png>)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/db634ba2-0479-4aec-b98c-9efa6ceb5706)
 
 
 screenshot of updating patient information
-![alt text](<Screenshot (14).png>)
+![Screenshot (14)](https://github.com/user-attachments/assets/99bcb837-7661-42b4-ac2a-2cc8d99e9ab3)
+
 
 screenshot of updated information
-![alt text](<Screenshot (15).png>)
+![Screenshot (15)](https://github.com/user-attachments/assets/2591674e-b3c5-4242-a80a-165b083047c2)
+
 
 
 screenshot of deleting patient information
-![alt text](<Screenshot (16).png>)
+![Screenshot (16)](https://github.com/user-attachments/assets/2bbc0481-870f-4097-a7ff-790e8cf29ebf)
+
