@@ -28,8 +28,5 @@ const Header = () => {
                     </NavLink>
                 </Toolbar> 
 
-            </AppBar>
-        </div>
-)};
 
 export default Header;
